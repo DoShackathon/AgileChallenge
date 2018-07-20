@@ -10,7 +10,9 @@ namespace AgileChallenge.CST.Web.data
     {
         [Key]
         public int ContactId { get; set; }
+        [Required(ErrorMessage = "First Name is a required field.")]
         public string FirstName { get; set; }
+        [Required(ErrorMessage = "Last Name is a required field.")]
         public string LastName { get; set; }
         public string MiddleName { get; set; }
         public string EmailAddress { get; set; }
