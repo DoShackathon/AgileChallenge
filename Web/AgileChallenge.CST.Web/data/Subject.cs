@@ -27,7 +27,7 @@ namespace AgileChallenge.CST.Web.data
         public string CountryCode { get; set; }
         public string ZipCode { get; set; }
 
-        public ICollection<Address> Addresses { get; set; }
+        public virtual ICollection<Address> Addresses { get; set; }
 
     }
 

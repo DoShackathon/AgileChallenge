@@ -89,6 +89,18 @@
             @Html.DisplayFor(model => model.ZipCode)
         </dd>
     </dl>
+    
+    @{
+        foreach (var address in Model.Addresses)
+        {
+            <h3>@address.AddressLine1</h3>
+            <h2>@address.AddressLine2</h2>
+            <h2>@address.City</h2>
+            <h2>@address.State</h2>
+            <h2>@address.Zip</h2>
+            <h2>@address.Country</h2>
+        }
+    }
 </div>
 <div>
     <a asp-action="Edit" asp-route-id="@Model.ContactId">Edit</a> |

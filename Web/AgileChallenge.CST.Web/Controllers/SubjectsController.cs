@@ -32,7 +32,7 @@ namespace AgileChallenge.CST.Web.Controllers
                 return NotFound();
             }
 
-            var subject = await _context.Subjects
+            var subject = await _context.Subjects.Include(s => s.Addresses)
                 .FirstOrDefaultAsync(m => m.ContactId == id);
             if (subject == null)
             {
