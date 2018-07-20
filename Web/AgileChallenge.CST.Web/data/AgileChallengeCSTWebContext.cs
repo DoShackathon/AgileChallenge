@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.EntityFrameworkCore.Scaffolding.Metadata;
+using AgileChallenge.CST.Web.data;
 
 namespace AgileChallenge.CST.Web.data
 {
@@ -23,6 +24,8 @@ namespace AgileChallenge.CST.Web.data
 
         public DbSet<Subject> Subjects { get; set; }
 
+        
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Data Source=localhost;initial catalog=Challenge02DB;user id=sa;password=test1234");
@@ -32,6 +35,8 @@ namespace AgileChallenge.CST.Web.data
             : base(options)
         {
         }
+
+        public DbSet<AgileChallenge.CST.Web.data.Address> Address { get; set; }
         
         
     }

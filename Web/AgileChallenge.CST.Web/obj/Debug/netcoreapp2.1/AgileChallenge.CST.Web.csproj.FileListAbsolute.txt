@@ -30,6 +30,11 @@ C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\AgileChall
 C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\AgileChallenge.CST.Web.pdb
 C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\AgileChallenge.CST.Web.csproj.CopyComplete
 C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\AgileChallenge.CST.Web.csprojAssemblyReference.cache
+C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Create.g.cshtml.cs
+C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Delete.g.cshtml.cs
+C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Details.g.cshtml.cs
+C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Edit.g.cshtml.cs
+C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Index.g.cshtml.cs
 C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Create.g.cshtml.cs
 C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Delete.g.cshtml.cs
 C:\_AgileChallenge\Web\AgileChallenge.CST.Web\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Details.g.cshtml.cs

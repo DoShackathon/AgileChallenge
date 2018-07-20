@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Subject.sql" />
+    <Build Include="Address.sql" />
   </ItemGroup>
 </Project>
