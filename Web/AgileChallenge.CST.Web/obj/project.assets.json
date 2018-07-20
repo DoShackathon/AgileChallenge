@@ -12215,6 +12215,7 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Language >= 2.1.1",
       "Microsoft.Extensions.DependencyInjection >= 2.1.1",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1"
     ]
@@ -12273,6 +12274,10 @@
             "version": "[2.1.1, )"
           },
           "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
             "version": "[2.1.1, )"
           },

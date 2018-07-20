@@ -403,7 +403,7 @@ using AgileChallenge.CST.Web.Models;
             WriteLiteral("</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(2816, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e3f8ee5d01294feb855264c20db8e64f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "272780cdc87d4450b46e5b1d27313ea7", async() => {
                 BeginContext(2869, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -438,7 +438,7 @@ using AgileChallenge.CST.Web.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(2885, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7dc9510413a142ada63b50f677add475", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8a65a3f6cc6c41d5b36f604c48284333", async() => {
                 BeginContext(2907, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
