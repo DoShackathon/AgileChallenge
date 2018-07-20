@@ -1,0 +1,6 @@
+C:\_AgileChallenge\Db\AgileChallenge.CST.Db\bin\Debug\AgileChallenge.CST.Db.dacpac
+C:\_AgileChallenge\Db\AgileChallenge.CST.Db\bin\Debug\AgileChallenge.CST.Db.dll
+C:\_AgileChallenge\Db\AgileChallenge.CST.Db\bin\Debug\AgileChallenge.CST.Db.pdb
+C:\_AgileChallenge\Db\AgileChallenge.CST.Db\obj\Debug\AgileChallenge.CST.Db.sqlprojAssemblyReference.cache
+C:\_AgileChallenge\Db\AgileChallenge.CST.Db\obj\Debug\AgileChallenge.CST.Db.dll
+C:\_AgileChallenge\Db\AgileChallenge.CST.Db\obj\Debug\AgileChallenge.CST.Db.pdb

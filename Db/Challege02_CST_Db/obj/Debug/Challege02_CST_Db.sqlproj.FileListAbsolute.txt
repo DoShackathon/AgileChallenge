@@ -1,0 +1,6 @@
+C:\_01\temp\Challege02_CST_Db\bin\Debug\Challege02_CST_Db.dacpac
+C:\_01\temp\Challege02_CST_Db\bin\Debug\Challege02_CST_Db.dll
+C:\_01\temp\Challege02_CST_Db\bin\Debug\Challege02_CST_Db.pdb
+C:\_01\temp\Challege02_CST_Db\obj\Debug\Challege02_CST_Db.sqlprojAssemblyReference.cache
+C:\_01\temp\Challege02_CST_Db\obj\Debug\Challege02_CST_Db.dll
+C:\_01\temp\Challege02_CST_Db\obj\Debug\Challege02_CST_Db.pdb

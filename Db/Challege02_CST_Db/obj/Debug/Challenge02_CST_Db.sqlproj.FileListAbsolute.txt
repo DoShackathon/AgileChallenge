@@ -1,0 +1,9 @@
+C:\_01\temp\Challege02_CST_Db\bin\Debug\Challenge02_CST_Db.dacpac
+C:\_01\temp\Challege02_CST_Db\bin\Debug\Challege02_CST_Db.dll
+C:\_01\temp\Challege02_CST_Db\bin\Debug\Challege02_CST_Db.pdb
+C:\_01\temp\Challege02_CST_Db\obj\Debug\Challege02_CST_Db.dll
+C:\_01\temp\Challege02_CST_Db\obj\Debug\Challege02_CST_Db.pdb
+C:\_01\temp\Challege02_CST_Db\obj\Debug\Model.xml
+C:\_01\temp\Challege02_CST_Db\obj\Debug\refactor.xml
+C:\_01\temp\Challege02_CST_Db\obj\Debug\postdeploy.sql
+C:\_01\temp\Challege02_CST_Db\obj\Debug\predeploy.sql

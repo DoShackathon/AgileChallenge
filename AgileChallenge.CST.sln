@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgileChallenge.CST.Web", "Web\AgileChallenge.CST.Web\AgileChallenge.CST.Web.csproj", "{BCAA56F8-BEE0-4371-A845-087739398352}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AgileChallenge.CST.Db", "Db\AgileChallenge.CST.Db\AgileChallenge.CST.Db.sqlproj", "{42BD4508-687C-4B5D-A461-729A8560B48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileChallenge.CST.Test", "UnitTest\AgileChallenge.CST.Test\AgileChallenge.CST.Test.csproj", "{B13E5B81-8852-4850-A09F-F52B3F5E2279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAA56F8-BEE0-4371-A845-087739398352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAA56F8-BEE0-4371-A845-087739398352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAA56F8-BEE0-4371-A845-087739398352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAA56F8-BEE0-4371-A845-087739398352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BD4508-687C-4B5D-A461-729A8560B48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BD4508-687C-4B5D-A461-729A8560B48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BD4508-687C-4B5D-A461-729A8560B48C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42BD4508-687C-4B5D-A461-729A8560B48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BD4508-687C-4B5D-A461-729A8560B48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BD4508-687C-4B5D-A461-729A8560B48C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B13E5B81-8852-4850-A09F-F52B3F5E2279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13E5B81-8852-4850-A09F-F52B3F5E2279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13E5B81-8852-4850-A09F-F52B3F5E2279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13E5B81-8852-4850-A09F-F52B3F5E2279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118C3CBD-306C-414F-800D-B3D8CE0A3B4A}
+	EndGlobalSection
+EndGlobal
